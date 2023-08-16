@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63150007452",
+    "project_id": "hopetalia",
+    "storage_bucket": "hopetalia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63150007452:android:cd4152f5c2791000fe7959",
+        "android_client_info": {
+          "package_name": "com.hopetalia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63150007452-3gbgel622m46g8572iemgrd7rgmv5spi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC9DjD8HtN1-Rw3JMx5NPezK6BxMJHgLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63150007452-3gbgel622m46g8572iemgrd7rgmv5spi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

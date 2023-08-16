@@ -1,0 +1,7 @@
+{
+  "name": "webbee_task",
+  "displayName": "webbee_task",
+  "androidStatusBar": {
+    "backgroundColor": "#000000"
+  }
+}
